@@ -8,7 +8,7 @@ fun main() {
     while (you Win == false) {
         print("your guess ")
         if (guess ==null) {
-            println("you are retarted like kye")
+            println("you are kye")
             continue
     }
 
